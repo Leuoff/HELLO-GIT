@@ -1,2 +1,2 @@
 # HELLO-GIT
- primeiro repositorio
+ primeiro repositorio com python e c++
